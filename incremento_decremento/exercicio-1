@@ -1,0 +1,10 @@
+/*Crie um laço while que irá iterar (repetir) enquanto n for menor
+ou igual a 5. Mostre no console os valores obtidos.*/
+
+var n = 0;//inicializo o valor
+
+while (n <= 5) {// enquanto n for menor oou iual a 5
+   
+    console.log("o valor de n é : "  + n);
+    n++;
+}
